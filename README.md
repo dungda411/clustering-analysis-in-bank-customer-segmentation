@@ -1,1 +1,5 @@
 # Clustering Analysis in Bank Customer Segmentation
+This is one of my assignments in Master's Degree in Business Analytics. Regarding the tasks, I was asked to carry out a study on behalf of a business analytics consultancy company that had recently signed a contract with a UK bank. The bank’s product development team wished to undertake segmentation analysis to identify trends and patterns in a sample of records collected from a number of their customers. The segments could be later used for the development of segment-specific financial products and promotions.
+
+The data include information on the customers’ gender, age, savings and current account balances, marital status, homeownership and employability. The collected data also contains information on how long they have been customers with the bank, how long they have been in employment as well as their credit risk. The dataset is provided above. As a business analytics expert, I was required to analyse those data and make any necessary modifications to segment the customers into homogenous groups.
+
